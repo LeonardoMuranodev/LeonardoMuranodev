@@ -1,6 +1,6 @@
 
-<h1 align="center">Hola 👋, Soy Leonardo Murano</h1>
-<h3 align="center">Desarrollador Full Stack (React / Node.js) | Automatización con n8n & Python | Instructor en Tecno 3F</h3>
+<h1 align="center">Hola, Soy Leonardo Murano <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>  
+<h3 align="center">Desarrollador Full Stack (React / Node.js) | Automatización con n8n & Python | Instructor</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/leonardo-murano/" target="_blank">
@@ -30,13 +30,39 @@
 
 <h3 align="center">🛠️ Lenguajes y Herramientas</h3>
 
-<!--tech stack icons-->
+<p align="center"><b>Lenguajes</b></p>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,docker,postgres,prisma,express,redis,github,html,java,js,md,materialui,nginx,mongodb,mysql,nodejs,postman,py,react,tailwind,ts,vscode&perline=14" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=js,ts,java,py" />
 </p>
 
+<p align="center"><b>Frontend</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
+</p>
+
+<p align="center"><b>Backend</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,sequelize" />
+</p>
+
+<p align="center"><b>Bases de Datos</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,redis,mysql" />
+</p>
+
+<p align="center"><b>Testing & DevOps</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,nginx,postman,vscode,md,vitest" />
+</p>
+
+<p align="center"><b>Herramientas de IA</b></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/n8n.svg" height="42" alt="n8n" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/sst/opencode/dev/packages/console/app/src/asset/brand/opencode-logo-dark-square.svg" height="42" alt="OpenCode" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/sst/opencode/dev/packages/ui/src/assets/icons/app/antigravity.svg" height="42" alt="Antigravity" />
+</p>
 
 <br/>
 <h3 align="center">🚀 Proyectos Full Stack Destacados</h3>
