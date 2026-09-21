@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Leonardo Murano</h1>
-<h3 align="center">Desarrollador de Automatizaciones (n8n/Python) | Estudiante de Tecnicatura en Programación | Instructor</h3>
+<h3 align="center">Desarrollador Full Stack (React / Node.js) | Automatización con n8n & Python | Instructor en Tecno 3F</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/leonardo-murano/" target="_blank">
@@ -13,9 +13,10 @@
 
 <br/>
 
-- 🌱 Estoy aprendiendo: **Docker, n8n y Python**
-- 👨‍💻 Todos mis proyectos de n8n están disponibles en [**mi portafolio de automatización**](https://github.com/LeonardoMuranodev/automation-portfolio)
-- 💬 Pregúntame sobre: **Creación de flujos en n8n, Python scripting y lógica de programación**
+- 🚀 Actualmente construyo aplicaciones Full Stack con **React, Node.js y PostgreSQL/MongoDB**
+- 🌱 Profundizando en: **Testing automatizado y Kubernetes**
+- 👨‍💻 Mis automatizaciones de n8n están en [**mi portafolio de automatización**](https://github.com/LeonardoMuranodev/automation-portfolio)
+- 💬 Pregúntame sobre: **Desarrollo Full Stack (React/Node), diseño de APIs REST y automatización de procesos con n8n**
 - ⚡ Un dato curioso: **Me gusta armar cubos Rubik (Speedcubing)**
 
 <br/>
@@ -23,47 +24,51 @@
 <h3 align="center">🛠️ Lenguajes y Herramientas</h3>
 
 <p align="center"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
-  &nbsp;&nbsp;
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a>
-  &nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
   &nbsp;&nbsp;
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> </a>
   &nbsp;&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>
+  <a href="https://react.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50"/> </a>
+  &nbsp;&nbsp;
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50"/> </a>
+  &nbsp;&nbsp;
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
 </p>
 
 <p align="center">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> </a> 
-  &nbsp;&nbsp;
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> </a>
   &nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a>
+  &nbsp;&nbsp;
+  <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="50" height="50"/> </a>
+  &nbsp;&nbsp;
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> </a> 
   &nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> 
-  &nbsp;&nbsp;
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a>
 </p>
 
 <p align="center">
   <a href="https://n8n.io" target="_blank"> <img src="https://img.shields.io/badge/n8n-ff655a?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" height="30"/> </a>
   &nbsp;&nbsp;
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask" height="30"/> </a>
-  &nbsp;&nbsp;
   <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Gen_AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="IA" height="30"/> </a>
 </p>
 
 <br/>
-<h3 align="center">🚀 Proyectos de Automatización Destacados</h3>
+<h3 align="center">🚀 Proyectos Full Stack Destacados</h3>
+
+| Proyecto | Descripción | Stack Tecnológico |
+| :--- | :--- | :--- |
+| **📧 Plataforma de Campañas de Email** | Sistema de gestión de campañas de mailing con rotación de cuentas SMTP, cola de procesamiento asíncrono, cifrado de credenciales y dashboard estadístico. | [`Repositorio`](https://github.com/LeonardoMuranodev/mailing-platform-demo) · `Node.js` `Express` `PostgreSQL` `Redis` `React` `JWT` |
+| **🌐 Red Social Académica** | Red social con posts, comentarios, tags y sistema de seguidores, desarrollada en equipo. | [`Repositorio`](https://github.com/LeonardoMuranodev/anti-social-red-unahur-frontend) · `React` `Node.js` `MongoDB` `Docker` |
+
+<br/>
+<h3 align="center">🤖 Automatizaciones Destacadas</h3>
 
 | Proyecto | Descripción | Stack Tecnológico |
 | :--- | :--- | :--- |
 | **🤖 Chatbot Gestionador de eventos** | Bot inteligente que responde preguntas frecuentes y agenda citas automáticamente en Google Calendar. | `n8n` `OpenAI` `Telegram API` `Google Calendar API` |
-| **Facturación Automática AFIP** | A traves de los datos de un google sheets, crea una factura con AFIP SDK, el QR de la misma y manda el archivo adjunto en un email. | `n8n` `Javascript` `AFIP SDK` `HTML` |
-| **📊 Sistema RAG** | Mantener actualizado el contexto de un asistente de IA en tiempo real y disponibilizarlo vía chat  |  `n8n` `Javascript` `PostgreSQL` `Supabase` `Cohere` |
-
-
+| **Facturación Automática AFIP** | A través de los datos de un google sheets, crea una factura con AFIP SDK, el QR de la misma y manda el archivo adjunto en un email. | `n8n` `Javascript` `AFIP SDK` `HTML` |
+| **📊 Sistema RAG** | Mantener actualizado el contexto de un asistente de IA en tiempo real y disponibilizarlo vía chat. | `n8n` `Javascript` `PostgreSQL` `Supabase` `Cohere` |
 
 <br/>
 
